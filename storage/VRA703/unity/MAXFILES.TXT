@@ -1,0 +1,25 @@
+﻿C:\Users\Student37\Desktop\t$m$p$$$\ThonyamaNaledi_IradukundaLahaiRois_VRA702_assignment3.max
+C:\Users\Student37\Desktop\t$m$p$$$\MAXFILES.TXT
+C:\Users\Student37\Desktop\textures\IMG-20230307-WA0004.png
+C:\Program Files\Autodesk\3ds Max 2023\maps\uvwunwrap\UV_Checker.png
+C:\Users\Student37\Desktop\textures\backwall\backwall nice.jpg
+C:\Users\Student37\Desktop\textures\backwall\SpecularMap.png
+C:\Users\Student37\Desktop\textures\backwall\NormalMap.png
+C:\Users\Student37\Desktop\textures\floor\floor.jpg
+C:\Users\Student37\Desktop\textures\floor\SpecularMap.png
+C:\Users\Student37\Desktop\textures\floor\NormalMap.png
+C:\Users\Student37\Desktop\textures\rightwall\right wall.jpg
+C:\Users\Student37\Desktop\textures\rightwall\rightwall spec..png
+C:\Users\Student37\Desktop\textures\rightwall\right wall bump.png
+C:\Users\Student37\Desktop\textures\door\door textures.jpg
+C:\Users\Student37\Desktop\textures\door\door specular.png
+C:\Users\Student37\Desktop\textures\door\door bump.png
+C:\Users\Student37\Desktop\textures\table-uvw.psd
+C:\Users\Student37\Desktop\textures\table\table-specular.png
+C:\Users\Student37\Desktop\textures\table\table-bump.png
+C:\Users\Student37\Desktop\textures\box\text.png
+C:\Users\Student37\Desktop\textures\box\box speculat.png
+C:\Users\Student37\Desktop\textures\box\box bump.png
+C:\Users\Student37\Desktop\textures\bin\bin.jpg
+C:\Users\Student37\Desktop\textures\bin\bin-specular.png
+C:\Users\Student37\Desktop\textures\bin\bin-bump.png
