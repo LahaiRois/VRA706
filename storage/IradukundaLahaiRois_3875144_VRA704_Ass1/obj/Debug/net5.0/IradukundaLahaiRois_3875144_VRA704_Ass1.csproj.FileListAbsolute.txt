@@ -1,0 +1,16 @@
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\bin\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.exe
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\bin\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.deps.json
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\bin\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.runtimeconfig.json
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\bin\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.runtimeconfig.dev.json
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\bin\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.dll
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\bin\Debug\net5.0\ref\IradukundaLahaiRois_3875144_VRA704_Ass1.dll
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\bin\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.pdb
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.csproj.AssemblyReference.cache
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.AssemblyInfoInputs.cache
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.AssemblyInfo.cs
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.csproj.CoreCompileInputs.cache
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.dll
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\ref\IradukundaLahaiRois_3875144_VRA704_Ass1.dll
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.pdb
+C:\Users\Student37\source\repos\IradukundaLahaiRois_3875144_VRA704_Ass1\obj\Debug\net5.0\IradukundaLahaiRois_3875144_VRA704_Ass1.genruntimeconfig.cache
